@@ -159,3 +159,7 @@ Claude Code的hooks（`PostToolUse`、`Stop`、`UserPromptSubmit`）可以在ta�
 
 - 架构灵感部分借鉴开源项目 [moeru-ai/airi](https://github.com/moeru-ai/airi)（插件管线、弹簧插值思路），以及小红书 @电脑眠眠豹 老师的桌宠分享
 - 我们使用的Live2D模型来自B站 @逐尾鲨 老师（已获作者授权；你自己的模型请务必确认授权条款）
+
+---
+
+*本文以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可发布——欢迎转载、翻译、节选，或者直接读给你家的AI听，注明出处即可。（文中提及的Live2D模型与第三方项目各归其原作者与原许可。）*
