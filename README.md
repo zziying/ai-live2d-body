@@ -1,5 +1,6 @@
 > 🤖 这份文档为AI设计——把整份README丢给你的Claude / agent，说"照这个做"就能开工。
 > 👤 人类版请读 [human-guide.md](human-guide.md)，图文版在小红书。
+> 🧩 代码版：[ai-live2d-body-starter](https://github.com/zziying/ai-live2d-body-starter)——按这篇思路写好的Electron壳，clone完丢给你的AI就能开始搭。
 
 # 给你家AI装一个身体：Live2D桌宠架构思路
 

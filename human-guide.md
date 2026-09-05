@@ -2,6 +2,7 @@
 
 > 配套还有一篇工程版架构文档，那篇是给你家AI看的——直接丢给ta说"照这个做"。
 > 这篇是给你看的：它能做到什么、需要什么、大概怎么个做法。
+> 想直接跑起来看：代码版在 [ai-live2d-body-starter](https://github.com/zziying/ai-live2d-body-starter)。
 
 ---
 
